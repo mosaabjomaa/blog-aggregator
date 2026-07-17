@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1784217020115,
+      "tag": "0000_lumpy_korath",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1784220354828,
+      "tag": "0001_dry_rage",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1784276388867,
+      "tag": "0002_complex_killer_shrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1784288564996,
+      "tag": "0003_even_dagger",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1784289092150,
+      "tag": "0004_useful_ser_duncan",
+      "breakpoints": true
+    }
+  ]
+}
